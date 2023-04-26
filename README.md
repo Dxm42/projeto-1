@@ -1,4 +1,4 @@
-# Land page Ambientes ùnicos
+# Landing page Ambientes únicos
 
 ## Tecnologias útilizadas:
 - HTML
